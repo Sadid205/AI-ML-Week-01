@@ -65,3 +65,55 @@
 
 
 # Formatting number and strings
+
+
+# x = 20.345566
+# x = format(x,".3f")
+# print(x)
+
+x = 20.345123
+# x = format(x, "7.3f")
+# x = format(x, "<7.3f")
+# x = format(x, ">7.3f")
+# x = format(x, "^7.3f")
+# x = format(x, ".3f")
+# x = eval(format(x, ".3f"))
+# x = format(x, ".2%")
+# print(x)
+
+
+# import math
+# 11
+# print(math.ceil(10.23))
+# 11
+# print(math.floor(10.23))
+# 10
+# print(math.exp(10.23))
+# 27722.51006805505
+# print(math.log(2.7))
+# 0.9932517730102834
+# print(math.log(10, 10))
+# 1.0
+# print(math.sqrt(16))
+# 4.0
+
+
+# #The ord and chr Functions
+# ord("A") #Returns ACII value of Character 'A'
+# 65
+# ord("z")
+# 122
+# ord("x")
+# 120
+# chr(65)
+
+
+# 'A'
+# chr(122)
+# 'z'
+# chr(120)
+# 'x'
+
+# Sum = 10 + ‘10’
+# print(Sum)
+print(abs(-2))
